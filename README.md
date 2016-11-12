@@ -1,11 +1,11 @@
 ﻿# python
 파이썬 시작하기 강의 소스 저장소
 
-*git 설
-*python 설
-*아래 명령어를 git bash로 실행
-*git config --global user.name "user name"
-*git config --global user.name "user email"
+-git 설
+-python 설
+-아래 명령어를 git bash로 실행
+-git config --global user.name "user name"
+-git config --global user.name "user email"
 
 ## day1
 -파이썬 프로그래밍 언어 설명
